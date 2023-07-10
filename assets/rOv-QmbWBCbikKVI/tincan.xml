@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://6ZGlK1Um5tQ_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">CopyrightNotice</name>
+			<description lang="und" />
+			<launch lang="und">story.html</launch>
+		</activity>
+		<activity id="http://6ZGlK1Um5tQ_course_id/5v1ioSpRuH7" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">CopyrightNotice</name>
+			<description lang="und">CopyrightNotice</description>
+		</activity>
+	</activities>
+</tincan>
